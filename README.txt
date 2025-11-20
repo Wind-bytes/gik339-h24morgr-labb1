@@ -1,1 +1,1 @@
-CLI kanske inte är värt tiden den slukar.
+Morgan Grönroos inlämning för labb 1 i dynamiska webapplikationer.
