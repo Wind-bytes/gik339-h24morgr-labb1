@@ -1,1 +1,0 @@
-Morgan Grönroos inlämning för labb 1 i dynamiska webapplikationer.
